@@ -219,15 +219,17 @@ int main(){
             break;
         }
 
-        print_maze();
 
         if(kbhit()){
             change_dir(getch());
         }
 
+        print_maze();
+        
         bool game_over = (s_r == 2*N-1 and s_c == 2*N-1);
 
         if(game_over){
+            Sleep(1000);
             system("cls");
             break;
         }
