@@ -8,5 +8,5 @@
 #### I used Rendomized DFS algorithm to generate the maze.
 
 
-### Here are videos:
-(easy level)[https://github.com/user-attachments/assets/e2337066-27af-4af5-80c7-cbcf6155dd25]
+##### Here are videos:
+[easy level](https://github.com/user-attachments/assets/e2337066-27af-4af5-80c7-cbcf6155dd25)
