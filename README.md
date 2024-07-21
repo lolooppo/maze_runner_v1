@@ -9,6 +9,6 @@
 
 
 ##### Here are videos:
-[easy level](https://github.com/user-attachments/assets/24f8a9dd-cd00-4e7f-9750-6aacc04bcadd)
+[easy level](https://github.com/user-attachments/assets/31241f19-56d3-48f9-988c-6249aec42155)
 
-[meduim level(harder :()](https://github.com/user-attachments/assets/0b8a7eb6-7ff8-4507-8b0e-7bfdd9d20ae1)
+[meduim level](https://github.com/user-attachments/assets/99b6cdc9-6fd0-4a24-a1ff-373aa7f2d740)
