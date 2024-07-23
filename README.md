@@ -7,6 +7,9 @@
 - Hard 20x20 grid with 100 seconds limit.
 #### I used Rendomized DFS algorithm to generate the maze.
 
+### How to play:
+- Use arrow keys to choose between levels.
+- Start playing by moving the 'S' character using 'w', 's', 'a', 'd' direction keys.
 
 ##### Here are videos:
 [easy level](https://github.com/user-attachments/assets/31241f19-56d3-48f9-988c-6249aec42155)
